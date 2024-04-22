@@ -1,0 +1,10 @@
+{
+  "user": {
+    "name": "John Doe",
+    "gender": "Male",
+    "email": "john.doe@example.com",
+    "level": "2",
+    "password": "password123",
+    "confirmPassword": "password123"
+  }
+}
